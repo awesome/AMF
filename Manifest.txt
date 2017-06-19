@@ -1,0 +1,17 @@
+.autotest
+.hoeignore
+Gemfile
+History.txt
+LICENSE
+Manifest.txt
+README.md
+Rakefile
+bin/amf
+lib/amf.rb
+lib/amf/constants.rb
+lib/amf/deserializer.rb
+lib/amf/header.rb
+lib/amf/message.rb
+lib/amf/serializer.rb
+lib/amf/version.rb
+test/test_amf.rb
